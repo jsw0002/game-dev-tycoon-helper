@@ -1,0 +1,2906 @@
+{
+  "abstract": {
+    "name": "Abstract",
+    "value": "abstract",
+    "genre": {
+      "action": {
+        "css": "higher",
+        "value": "++"
+      },
+      "adventure": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "rpg": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "simulation": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "strategy": {
+        "css": "high",
+        "value": "+"
+      },
+      "casual": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "high",
+        "value": "+"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "airplane": {
+    "name": "Airplane",
+    "value": "airplane",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "rpg": {
+        "css": "high",
+        "value": "+"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "casual": {
+        "css": "highest",
+        "value": "+++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "aliens": {
+    "name": "Aliens",
+    "value": "aliens",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "high",
+        "value": "+"
+      },
+      "rpg": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "simulation": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "strategy": {
+        "css": "higher",
+        "value": "++"
+      },
+      "casual": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "higher",
+        "value": "++"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "alternate-history": {
+    "name": "Alternate History",
+    "value": "alternate-history",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "high",
+        "value": "+"
+      },
+      "rpg": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "simulation": {
+        "css": "high",
+        "value": "+"
+      },
+      "strategy": {
+        "css": "higher",
+        "value": "++"
+      },
+      "casual": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "assassin": {
+    "name": "Assassin",
+    "value": "assassin",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "lower",
+        "value": "--"
+      },
+      "rpg": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "simulation": {
+        "css": "high",
+        "value": "+"
+      },
+      "strategy": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "casual": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "e": {
+        "css": "high",
+        "value": "+"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "business": {
+    "name": "Business",
+    "value": "business",
+    "genre": {
+      "action": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "adventure": {
+        "css": "high",
+        "value": "+"
+      },
+      "rpg": {
+        "css": "high",
+        "value": "+"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "casual": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "higher",
+        "value": "++"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "lower",
+        "value": "--"
+      }
+    }
+  },
+  "city": {
+    "name": "City",
+    "value": "city",
+    "genre": {
+      "action": {
+        "css": "lower",
+        "value": "--"
+      },
+      "adventure": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "rpg": {
+        "css": "lower",
+        "value": "--"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "casual": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "higher",
+        "value": "++"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "high",
+        "value": "+"
+      }
+    }
+  },
+  "colonization": {
+    "name": "Colonization",
+    "value": "colonization",
+    "genre": {
+      "action": {
+        "css": "lower",
+        "value": "--"
+      },
+      "adventure": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "rpg": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "casual": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "lower",
+        "value": "--"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "high",
+        "value": "+"
+      }
+    }
+  },
+  "comedy": {
+    "name": "Comedy",
+    "value": "comedy",
+    "genre": {
+      "action": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "adventure": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "rpg": {
+        "css": "high",
+        "value": "+"
+      },
+      "simulation": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "strategy": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "casual": {
+        "css": "highest",
+        "value": "+++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "high",
+        "value": "+"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "construction": {
+    "name": "Construction",
+    "value": "construction",
+    "genre": {
+      "action": {
+        "css": "lower",
+        "value": "--"
+      },
+      "adventure": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "rpg": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "higher",
+        "value": "++"
+      },
+      "casual": {
+        "css": "high",
+        "value": "+"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "high",
+        "value": "+"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "cooking": {
+    "name": "Cooking",
+    "value": "cooking",
+    "genre": {
+      "action": {
+        "css": "higher",
+        "value": "++"
+      },
+      "adventure": {
+        "css": "lower",
+        "value": "--"
+      },
+      "rpg": {
+        "css": "high",
+        "value": "+"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "lower",
+        "value": "--"
+      },
+      "casual": {
+        "css": "highest",
+        "value": "+++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "high",
+        "value": "+"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "lowest",
+        "value": "---"
+      }
+    }
+  },
+  "crime": {
+    "name": "Crime",
+    "value": "crime",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "lower",
+        "value": "--"
+      },
+      "rpg": {
+        "css": "high",
+        "value": "+"
+      },
+      "simulation": {
+        "css": "higher",
+        "value": "++"
+      },
+      "strategy": {
+        "css": "lower",
+        "value": "--"
+      },
+      "casual": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "e": {
+        "css": "high",
+        "value": "+"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "cyberpunk": {
+    "name": "Cyberpunk",
+    "value": "cyberpunk",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "high",
+        "value": "+"
+      },
+      "rpg": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "simulation": {
+        "css": "high",
+        "value": "+"
+      },
+      "strategy": {
+        "css": "lower",
+        "value": "--"
+      },
+      "casual": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "lower",
+        "value": "--"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "dance": {
+    "name": "Dance",
+    "value": "dance",
+    "genre": {
+      "action": {
+        "css": "lower",
+        "value": "--"
+      },
+      "adventure": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "rpg": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "casual": {
+        "css": "highest",
+        "value": "+++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "high",
+        "value": "+"
+      }
+    }
+  },
+  "detective": {
+    "name": "Detective",
+    "value": "detective",
+    "genre": {
+      "action": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "adventure": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "rpg": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "simulation": {
+        "css": "high",
+        "value": "++"
+      },
+      "strategy": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "casual": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "higher",
+        "value": "++"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "high",
+        "value": "+"
+      }
+    }
+  },
+  "disasters": {
+    "name": "Disasters",
+    "value": "disasters",
+    "genre": {
+      "action": {
+        "css": "higher",
+        "value": "++"
+      },
+      "adventure": {
+        "css": "high",
+        "value": "+"
+      },
+      "rpg": {
+        "css": "lower",
+        "value": "--"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "casual": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "lower",
+        "value": "--"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "dungeon": {
+    "name": "Dungeon",
+    "value": "dungeon",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "high",
+        "value": "+"
+      },
+      "rpg": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "casual": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "high",
+        "value": "+"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "dystopian": {
+    "name": "Dystopian",
+    "value": "dystopian",
+    "genre": {
+      "action": {
+        "css": "high",
+        "value": "+"
+      },
+      "adventure": {
+        "css": "higher",
+        "value": "++"
+      },
+      "rpg": {
+        "css": "high",
+        "value": "+"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "higher",
+        "value": "++"
+      },
+      "casual": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "e": {
+        "css": "high",
+        "value": "+"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "evolution": {
+    "name": "Evolution",
+    "value": "evolution",
+    "genre": {
+      "action": {
+        "css": "lower",
+        "value": "--"
+      },
+      "adventure": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "rpg": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "casual": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "high",
+        "value": "+"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "lower",
+        "value": "--"
+      }
+    }
+  },
+  "expedition": {
+    "name": "Expedition",
+    "value": "expedition",
+    "genre": {
+      "action": {
+        "css": "lower",
+        "value": "--"
+      },
+      "adventure": {
+        "css": "higher",
+        "value": "++"
+      },
+      "rpg": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "simulation": {
+        "css": "higher",
+        "value": "++"
+      },
+      "strategy": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "casual": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "high",
+        "value": "+"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "extreme-sports": {
+    "name": "Extreme Sports",
+    "value": "extreme-sports",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "rpg": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "lower",
+        "value": "--"
+      },
+      "casual": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "e": {
+        "css": "lower",
+        "value": "--"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "fantasy": {
+    "name": "Fantasy",
+    "value": "fantasy",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "rpg": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "simulation": {
+        "css": "high",
+        "value": "+"
+      },
+      "strategy": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "casual": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "farming": {
+    "name": "Farming",
+    "value": "farming",
+    "genre": {
+      "action": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "adventure": {
+        "css": "lower",
+        "value": "--"
+      },
+      "rpg": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "casual": {
+        "css": "highest",
+        "value": "+++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "higher",
+        "value": "++"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "high",
+        "value": "+"
+      }
+    }
+  },
+  "fashion": {
+    "name": "Fashion",
+    "value": "fashion",
+    "genre": {
+      "action": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "adventure": {
+        "css": "high",
+        "value": "+"
+      },
+      "rpg": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "casual": {
+        "css": "highest",
+        "value": "+++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "e": {
+        "css": "high",
+        "value": "+"
+      },
+      "m": {
+        "css": "lowest",
+        "value": "---"
+      }
+    }
+  },
+  "game-dev": {
+    "name": "Game Dev",
+    "value": "game-dev",
+    "genre": {
+      "action": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "adventure": {
+        "css": "lower",
+        "value": "--"
+      },
+      "rpg": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "casual": {
+        "css": "high",
+        "value": "+"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "higher",
+        "value": "++"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "lower",
+        "value": "--"
+      }
+    }
+  },
+  "government": {
+    "name": "Government",
+    "value": "government",
+    "genre": {
+      "action": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "adventure": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "rpg": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "casual": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "high",
+        "value": "+"
+      }
+    }
+  },
+  "hacking": {
+    "name": "Hacking",
+    "value": "hacking",
+    "genre": {
+      "action": {
+        "css": "lower",
+        "value": "--"
+      },
+      "adventure": {
+        "css": "high",
+        "value": "+"
+      },
+      "rpg": {
+        "css": "lower",
+        "value": "--"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "casual": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "lower",
+        "value": "--"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "history": {
+    "name": "History",
+    "value": "history",
+    "genre": {
+      "action": {
+        "css": "high",
+        "value": "+"
+      },
+      "adventure": {
+        "css": "high",
+        "value": "+"
+      },
+      "rpg": {
+        "css": "high",
+        "value": "+"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "casual": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "high",
+        "value": "+"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "horror": {
+    "name": "Horror",
+    "value": "horror",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "rpg": {
+        "css": "high",
+        "value": "+"
+      },
+      "simulation": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "strategy": {
+        "css": "lower",
+        "value": "--"
+      },
+      "casual": {
+        "css": "high",
+        "value": "+"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "hospital": {
+    "name": "Hospital",
+    "value": "hospital",
+    "genre": {
+      "action": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "adventure": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "rpg": {
+        "css": "high",
+        "value": "+"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "high",
+        "value": "+"
+      },
+      "casual": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "lower",
+        "value": "--"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "high",
+        "value": "+"
+      }
+    }
+  },
+  "hunting": {
+    "name": "Hunting",
+    "value": "hunting",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "higher",
+        "value": "++"
+      },
+      "rpg": {
+        "css": "higher",
+        "value": "++"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "lower",
+        "value": "--"
+      },
+      "casual": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "higher",
+        "value": "++"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "law": {
+    "name": "Law",
+    "value": "law",
+    "genre": {
+      "action": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "adventure": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "rpg": {
+        "css": "higher",
+        "value": "++"
+      },
+      "simulation": {
+        "css": "higher",
+        "value": "++"
+      },
+      "strategy": {
+        "css": "higher",
+        "value": "++"
+      },
+      "casual": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "high",
+        "value": "+"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "lower",
+        "value": "--"
+      }
+    }
+  },
+  "life": {
+    "name": "Life",
+    "value": "life",
+    "genre": {
+      "action": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "adventure": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "rpg": {
+        "css": "higher",
+        "value": "++"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "casual": {
+        "css": "high",
+        "value": "+"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "high",
+        "value": "+"
+      }
+    }
+  },
+  "mad-science": {
+    "name": "Mad Science",
+    "value": "mad-science",
+    "genre": {
+      "action": {
+        "css": "higher",
+        "value": "++"
+      },
+      "adventure": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "rpg": {
+        "css": "lower",
+        "value": "--"
+      },
+      "simulation": {
+        "css": "higher",
+        "value": "++"
+      },
+      "strategy": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "casual": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "high",
+        "value": "+"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "martial-arts": {
+    "name": "Martial Arts",
+    "value": "martial-arts",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "high",
+        "value": "+"
+      },
+      "rpg": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "lower",
+        "value": "--"
+      },
+      "casual": {
+        "css": "highest",
+        "value": "+++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "lower",
+        "value": "--"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "medieval": {
+    "name": "Medieval",
+    "value": "medieval",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "rpg": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "simulation": {
+        "css": "high",
+        "value": "+"
+      },
+      "strategy": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "casual": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "military": {
+    "name": "Military",
+    "value": "military",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "rpg": {
+        "css": "high",
+        "value": "+"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "casual": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "lower",
+        "value": "--"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "movies": {
+    "name": "Movies",
+    "value": "movies",
+    "genre": {
+      "action": {
+        "css": "high",
+        "value": "+"
+      },
+      "adventure": {
+        "css": "high",
+        "value": "+"
+      },
+      "rpg": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "casual": {
+        "css": "highest",
+        "value": "+++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "higher",
+        "value": "++"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "music": {
+    "name": "Music",
+    "value": "music",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "higher",
+        "value": "++"
+      },
+      "rpg": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "casual": {
+        "css": "highest",
+        "value": "+++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "high",
+        "value": "+"
+      }
+    }
+  },
+  "mystery": {
+    "name": "Mystery",
+    "value": "mystery",
+    "genre": {
+      "action": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "adventure": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "rpg": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "simulation": {
+        "css": "high",
+        "value": "+"
+      },
+      "strategy": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "casual": {
+        "css": "high",
+        "value": "+"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "high",
+        "value": "+"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "mythology": {
+    "name": "Mythology",
+    "value": "mythology",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "high",
+        "value": "+"
+      },
+      "rpg": {
+        "css": "higher",
+        "value": "++"
+      },
+      "simulation": {
+        "css": "higher",
+        "value": "++"
+      },
+      "strategy": {
+        "css": "high",
+        "value": "+"
+      },
+      "casual": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "lower",
+        "value": "--"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "ninja": {
+    "name": "Ninja",
+    "value": "ninja",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "high",
+        "value": "+"
+      },
+      "rpg": {
+        "css": "high",
+        "value": "+"
+      },
+      "simulation": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "strategy": {
+        "css": "high",
+        "value": "+"
+      },
+      "casual": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "pirate": {
+    "name": "Pirate",
+    "value": "pirate",
+    "genre": {
+      "action": {
+        "css": "high",
+        "value": "+"
+      },
+      "adventure": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "rpg": {
+        "css": "higher",
+        "value": "++"
+      },
+      "simulation": {
+        "css": "higher",
+        "value": "++"
+      },
+      "strategy": {
+        "css": "lower",
+        "value": "--"
+      },
+      "casual": {
+        "css": "high",
+        "value": "+"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "high",
+        "value": "+"
+      }
+    }
+  },
+  "post-apocalyptic": {
+    "name": "Post Apocalyptic",
+    "value": "post-apocalyptic",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "high",
+        "value": "+"
+      },
+      "rpg": {
+        "css": "high",
+        "value": "+"
+      },
+      "simulation": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "strategy": {
+        "css": "high",
+        "value": "+"
+      },
+      "casual": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "prison": {
+    "name": "Prison",
+    "value": "prison",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "rpg": {
+        "css": "high",
+        "value": "+"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "high",
+        "value": "+"
+      },
+      "casual": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "lower",
+        "value": "--"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "racing": {
+    "name": "Racing",
+    "value": "racing",
+    "genre": {
+      "action": {
+        "css": "higher",
+        "value": "++"
+      },
+      "adventure": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "rpg": {
+        "css": "high",
+        "value": "+"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "lower",
+        "value": "--"
+      },
+      "casual": {
+        "css": "highest",
+        "value": "+++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "rhythm": {
+    "name": "Rhythm",
+    "value": "rhythm",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "lower",
+        "value": "--"
+      },
+      "rpg": {
+        "css": "lower",
+        "value": "--"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "casual": {
+        "css": "highest",
+        "value": "+++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "high",
+        "value": "+"
+      }
+    }
+  },
+  "romance": {
+    "name": "Romance",
+    "value": "romance",
+    "genre": {
+      "action": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "adventure": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "rpg": {
+        "css": "high",
+        "value": "+"
+      },
+      "simulation": {
+        "css": "higher",
+        "value": "++"
+      },
+      "strategy": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "casual": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "high",
+        "value": "+"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "school": {
+    "name": "School",
+    "value": "school",
+    "genre": {
+      "action": {
+        "css": "high",
+        "value": "+"
+      },
+      "adventure": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "rpg": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "casual": {
+        "css": "high",
+        "value": "+"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "lower",
+        "value": "--"
+      }
+    }
+  },
+  "sci-fi": {
+    "name": "Sci-Fi",
+    "value": "sci-fi",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "rpg": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "casual": {
+        "css": "high",
+        "value": "+"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "high",
+        "value": "+"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "space": {
+    "name": "Space",
+    "value": "space",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "high",
+        "value": "+"
+      },
+      "rpg": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "casual": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "high",
+        "value": "+"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "sports": {
+    "name": "Sports",
+    "value": "sports",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "rpg": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "lower",
+        "value": "--"
+      },
+      "casual": {
+        "css": "highest",
+        "value": "+++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "high",
+        "value": "+"
+      }
+    }
+  },
+  "spy": {
+    "name": "Spy",
+    "value": "spy",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "rpg": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "simulation": {
+        "css": "high",
+        "value": "+"
+      },
+      "strategy": {
+        "css": "lower",
+        "value": "--"
+      },
+      "casual": {
+        "css": "high",
+        "value": "+"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "high",
+        "value": "+"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "superheroes": {
+    "name": "Superheroes",
+    "value": "superheroes",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "rpg": {
+        "css": "higher",
+        "value": "++"
+      },
+      "simulation": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "strategy": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "casual": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "surgery": {
+    "name": "Surgery",
+    "value": "surgery",
+    "genre": {
+      "action": {
+        "css": "high",
+        "value": "+"
+      },
+      "adventure": {
+        "css": "lower",
+        "value": "--"
+      },
+      "rpg": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "lower",
+        "value": "--"
+      },
+      "casual": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "high",
+        "value": "+"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "technology": {
+    "name": "Technology",
+    "value": "technology",
+    "genre": {
+      "action": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "adventure": {
+        "css": "lower",
+        "value": "--"
+      },
+      "rpg": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "higher",
+        "value": "++"
+      },
+      "casual": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "high",
+        "value": "+"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "thief": {
+    "name": "Thief",
+    "value": "thief",
+    "genre": {
+      "action": {
+        "css": "higher",
+        "value": "++"
+      },
+      "adventure": {
+        "css": "high",
+        "value": "+"
+      },
+      "rpg": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "simulation": {
+        "css": "higher",
+        "value": "++"
+      },
+      "strategy": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "casual": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "lower",
+        "value": "--"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "time-travel": {
+    "name": "Time Travel",
+    "value": "time-travel",
+    "genre": {
+      "action": {
+        "css": "higher",
+        "value": "++"
+      },
+      "adventure": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "rpg": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "simulation": {
+        "css": "lower",
+        "value": "--"
+      },
+      "strategy": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "casual": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "higher",
+        "value": "++"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "high",
+        "value": "+"
+      }
+    }
+  },
+  "transport": {
+    "name": "Transport",
+    "value": "transport",
+    "genre": {
+      "action": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "adventure": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "rpg": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "casual": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "higher",
+        "value": "++"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "lower",
+        "value": "--"
+      }
+    }
+  },
+  "ufo": {
+    "name": "UFO",
+    "value": "ufo",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "high",
+        "value": "+"
+      },
+      "rpg": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "simulation": {
+        "css": "high",
+        "value": "+"
+      },
+      "strategy": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "casual": {
+        "css": "high",
+        "value": "+"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "high",
+        "value": "+"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "vampire": {
+    "name": "Vampire",
+    "value": "vampire",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "high",
+        "value": "+"
+      },
+      "rpg": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "simulation": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "strategy": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "casual": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "lower",
+        "value": "--"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "virtual-pet": {
+    "name": "Virtual Pet",
+    "value": "virtual-pet",
+    "genre": {
+      "action": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "adventure": {
+        "css": "high",
+        "value": "+"
+      },
+      "rpg": {
+        "css": "higher",
+        "value": "++"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "higher",
+        "value": "++"
+      },
+      "casual": {
+        "css": "highest",
+        "value": "+++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "e": {
+        "css": "high",
+        "value": "+"
+      },
+      "m": {
+        "css": "lower",
+        "value": "--"
+      }
+    }
+  },
+  "vocabulary": {
+    "name": "Vocabulary",
+    "value": "vocabulary",
+    "genre": {
+      "action": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "adventure": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "rpg": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "simulation": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "strategy": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "casual": {
+        "css": "highest",
+        "value": "+++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "higher",
+        "value": "++"
+      },
+      "e": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "m": {
+        "css": "lowest",
+        "value": "---"
+      }
+    }
+  },
+  "werewolf": {
+    "name": "Werewolf",
+    "value": "werewolf",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "high",
+        "value": "+"
+      },
+      "rpg": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "simulation": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "strategy": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "casual": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "lower",
+        "value": "--"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "wild-west": {
+    "name": "Wild West",
+    "value": "wild-west",
+    "genre": {
+      "action": {
+        "css": "higher",
+        "value": "++"
+      },
+      "adventure": {
+        "css": "lower",
+        "value": "--"
+      },
+      "rpg": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "simulation": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "strategy": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "casual": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "e": {
+        "css": "higher",
+        "value": "++"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  },
+  "zombies": {
+    "name": "Zombies",
+    "value": "zombies",
+    "genre": {
+      "action": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "adventure": {
+        "css": "lower",
+        "value": "--"
+      },
+      "rpg": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "simulation": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "strategy": {
+        "css": "higher",
+        "value": "++"
+      },
+      "casual": {
+        "css": "highest",
+        "value": "+++"
+      }
+    },
+    "audiences": {
+      "y": {
+        "css": "higher",
+        "value": "++"
+      },
+      "e": {
+        "css": "high",
+        "value": "+"
+      },
+      "m": {
+        "css": "highest",
+        "value": "+++"
+      }
+    }
+  }
+}

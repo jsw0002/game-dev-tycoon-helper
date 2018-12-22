@@ -1,0 +1,1412 @@
+{
+  "action-adventure": {
+    "name": "Action/Adventure",
+    "value": "action-adventure",
+    "td": 1.33,
+    "stageOne": {
+      "engine": {
+        "css": "higher",
+        "value": "++"
+      },
+      "gameplay": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "storyQuests": {
+        "css": "neutral",
+        "value": "~"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "lower",
+        "value": "--"
+      },
+      "levelDesign": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "ai": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "graphics": {
+        "css": "higher",
+        "value": "++"
+      },
+      "sound": {
+        "css": "neutral",
+        "value": "~"
+      }
+    }
+  },
+  "action-rpg": {
+    "name": "Action/RPG",
+    "value": "action-rpg",
+    "td": 1.4,
+    "stageOne": {
+      "engine": {
+        "css": "higher",
+        "value": "++"
+      },
+      "gameplay": {
+        "css": "higher",
+        "value": "++"
+      },
+      "storyQuests": {
+        "css": "neutral",
+        "value": "~"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "lower",
+        "value": "--"
+      },
+      "levelDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "ai": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "graphics": {
+        "css": "higher",
+        "value": "++"
+      },
+      "sound": {
+        "css": "neutral",
+        "value": "~"
+      }
+    }
+  },
+  "action-simulation": {
+    "name": "Action/Simulation",
+    "value": "action-simulation",
+    "td": 1.73,
+    "stageOne": {
+      "engine": {
+        "css": "higher",
+        "value": "++"
+      },
+      "gameplay": {
+        "css": "higher",
+        "value": "++"
+      },
+      "storyQuests": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "levelDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "ai": {
+        "css": "highest",
+        "value": "+++"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "graphics": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "sound": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "action-strategy": {
+    "name": "Action/Strategy",
+    "value": "action-strategy",
+    "td": 1.67,
+    "stageOne": {
+      "engine": {
+        "css": "higher",
+        "value": "++"
+      },
+      "gameplay": {
+        "css": "higher",
+        "value": "++"
+      },
+      "storyQuests": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "levelDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "ai": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "graphics": {
+        "css": "higher",
+        "value": "++"
+      },
+      "sound": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "action-casual": {
+    "name": "Action/Strategy",
+    "value": "action-strategy",
+    "td": 1.37,
+    "stageOne": {
+      "engine": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "gameplay": {
+        "css": "higher",
+        "value": "++"
+      },
+      "storyQuests": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "levelDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "ai": {
+        "css": "neutral",
+        "value": "~"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "lower",
+        "value": "--"
+      },
+      "graphics": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "sound": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "adventure-action": {
+    "name": "Adventure/Action",
+    "value": "adventure-action",
+    "td": 0.87,
+    "stageOne": {
+      "engine": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "gameplay": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "storyQuests": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "levelDesign": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "ai": {
+        "css": "neutral",
+        "value": "~"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "graphics": {
+        "css": "higher",
+        "value": "++"
+      },
+      "sound": {
+        "css": "neutral",
+        "value": "~"
+      }
+    }
+  },
+  "adventure-rpg": {
+    "name": "Adventure/RPG",
+    "value": "adventure-rpg",
+    "td": 0.47,
+    "stageOne": {
+      "engine": {
+        "css": "lower",
+        "value": "--"
+      },
+      "gameplay": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "storyQuests": {
+        "css": "highest",
+        "value": "+++"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "levelDesign": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "ai": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "graphics": {
+        "css": "higher",
+        "value": "++"
+      },
+      "sound": {
+        "css": "neutral",
+        "value": "~"
+      }
+    }
+  },
+  "adventure-simulation": {
+    "name": "Adventure/Simulation",
+    "value": "adventure-simulation",
+    "td": 0.8,
+    "stageOne": {
+      "engine": {
+        "css": "lower",
+        "value": "--"
+      },
+      "gameplay": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "storyQuests": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "higher",
+        "value": "++"
+      },
+      "levelDesign": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "ai": {
+        "css": "neutral",
+        "value": "~"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "graphics": {
+        "css": "higher",
+        "value": "++"
+      },
+      "sound": {
+        "css": "neutral",
+        "value": "~"
+      }
+    }
+  },
+  "adventure-strategy": {
+    "name": "Adventure/Strategy",
+    "value": "adventure-strategy",
+    "td": 0.73,
+    "stageOne": {
+      "engine": {
+        "css": "lower",
+        "value": "--"
+      },
+      "gameplay": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "storyQuests": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "higher",
+        "value": "++"
+      },
+      "levelDesign": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "ai": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "graphics": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "sound": {
+        "css": "neutral",
+        "value": "~"
+      }
+    }
+  },
+  "adventure-casual": {
+    "name": "Adventure/Casual",
+    "value": "adventure-casual",
+    "td": 0.43,
+    "stageOne": {
+      "engine": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "gameplay": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "storyQuests": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "higher",
+        "value": "++"
+      },
+      "levelDesign": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "ai": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "graphics": {
+        "css": "higher",
+        "value": "++"
+      },
+      "sound": {
+        "css": "neutral",
+        "value": "~"
+      }
+    }
+  },
+  "rpg-action": {
+    "name": "RPG/Action",
+    "value": "rpg-action",
+    "td": 1,
+    "stageOne": {
+      "engine": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "gameplay": {
+        "css": "higher",
+        "value": "++"
+      },
+      "storyQuests": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "levelDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "ai": {
+        "css": "neutral",
+        "value": "~"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "graphics": {
+        "css": "higher",
+        "value": "++"
+      },
+      "sound": {
+        "css": "neutral",
+        "value": "~"
+      }
+    }
+  },
+  "rpg-adventure": {
+    "name": "RPG/Adventure",
+    "value": "rpg-adventure",
+    "td": 0.53,
+    "stageOne": {
+      "engine": {
+        "css": "lower",
+        "value": "--"
+      },
+      "gameplay": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "storyQuests": {
+        "css": "highest",
+        "value": "+++"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "levelDesign": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "ai": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "graphics": {
+        "css": "higher",
+        "value": "++"
+      },
+      "sound": {
+        "css": "neutral",
+        "value": "~"
+      }
+    }
+  },
+  "rpg-simulation": {
+    "name": "RPG/Simulation",
+    "value": "rpg-simulation",
+    "td": 0.93,
+    "stageOne": {
+      "engine": {
+        "css": "lower",
+        "value": "--"
+      },
+      "gameplay": {
+        "css": "higher",
+        "value": "++"
+      },
+      "storyQuests": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "higher",
+        "value": "++"
+      },
+      "levelDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "ai": {
+        "css": "neutral",
+        "value": "~"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "graphics": {
+        "css": "higher",
+        "value": "++"
+      },
+      "sound": {
+        "css": "neutral",
+        "value": "~"
+      }
+    }
+  },
+  "rpg-strategy": {
+    "name": "RPG/Strategy",
+    "value": "rpg-strategy",
+    "td": 0.87,
+    "stageOne": {
+      "engine": {
+        "css": "lower",
+        "value": "--"
+      },
+      "gameplay": {
+        "css": "higher",
+        "value": "++"
+      },
+      "storyQuests": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "higher",
+        "value": "++"
+      },
+      "levelDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "ai": {
+        "css": "neutral",
+        "value": "~"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "graphics": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "sound": {
+        "css": "neutral",
+        "value": "~"
+      }
+    }
+  },
+  "rpg-casual": {
+    "name": "RPG/Casual",
+    "value": "rpg-casual",
+    "td": 0.57,
+    "stageOne": {
+      "engine": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "gameplay": {
+        "css": "higher",
+        "value": "++"
+      },
+      "storyQuests": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "higher",
+        "value": "++"
+      },
+      "levelDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "ai": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "graphics": {
+        "css": "higher",
+        "value": "++"
+      },
+      "sound": {
+        "css": "neutral",
+        "value": "~"
+      }
+    }
+  },
+  "simulation-action": {
+    "name": "Simulation/Action",
+    "value": "simulation-action",
+    "td": 1.67,
+    "stageOne": {
+      "engine": {
+        "css": "higher",
+        "value": "++"
+      },
+      "gameplay": {
+        "css": "higher",
+        "value": "++"
+      },
+      "storyQuests": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "lower",
+        "value": "--"
+      },
+      "levelDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "ai": {
+        "css": "highest",
+        "value": "+++"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "graphics": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "sound": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "simulation-adventure": {
+    "name": "Simulation/Adventure",
+    "value": "simulation-adventure",
+    "td": 1.2,
+    "stageOne": {
+      "engine": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "gameplay": {
+        "css": "higher",
+        "value": "++"
+      },
+      "storyQuests": {
+        "css": "neutral",
+        "value": "~"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "levelDesign": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "ai": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "graphics": {
+        "css": "higher",
+        "value": "++"
+      },
+      "sound": {
+        "css": "neutral",
+        "value": "~"
+      }
+    }
+  },
+  "simulation-rpg": {
+    "name": "Simulation/RPG",
+    "value": "simulation-rpg",
+    "td": 1.27,
+    "stageOne": {
+      "engine": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "gameplay": {
+        "css": "higher",
+        "value": "++"
+      },
+      "storyQuests": {
+        "css": "neutral",
+        "value": "~"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "levelDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "ai": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "graphics": {
+        "css": "higher",
+        "value": "++"
+      },
+      "sound": {
+        "css": "neutral",
+        "value": "~"
+      }
+    }
+  },
+  "simulation-strategy": {
+    "name": "Simulation/Strategy",
+    "value": "simulation-strategy",
+    "td": 1.53,
+    "stageOne": {
+      "engine": {
+        "css": "higher",
+        "value": "++"
+      },
+      "gameplay": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "storyQuests": {
+        "css": "neutral",
+        "value": "~"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "lower",
+        "value": "--"
+      },
+      "levelDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "ai": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "graphics": {
+        "css": "higher",
+        "value": "++"
+      },
+      "sound": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "simulation-casual": {
+    "name": "Simulation/Casual",
+    "value": "simulation-casual",
+    "td": 1.23,
+    "stageOne": {
+      "engine": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "gameplay": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "storyQuests": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "lower",
+        "value": "--"
+      },
+      "levelDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "ai": {
+        "css": "neutral",
+        "value": "~"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "lower",
+        "value": "--"
+      },
+      "graphics": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "sound": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "strategy-action": {
+    "name": "Strategy/Action",
+    "value": "strategy-action",
+    "td": 1.53,
+    "stageOne": {
+      "engine": {
+        "css": "higher",
+        "value": "++"
+      },
+      "gameplay": {
+        "css": "higher",
+        "value": "++"
+      },
+      "storyQuests": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "levelDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "ai": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "graphics": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "sound": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "strategy-adventure": {
+    "name": "Strategy/Adventure",
+    "value": "strategy-adventure",
+    "td": 1.07,
+    "stageOne": {
+      "engine": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "gameplay": {
+        "css": "higher",
+        "value": "++"
+      },
+      "storyQuests": {
+        "css": "neutral",
+        "value": "~"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "levelDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "ai": {
+        "css": "neutral",
+        "value": "~"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "graphics": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "sound": {
+        "css": "neutral",
+        "value": "~"
+      }
+    }
+  },
+  "strategy-rpg": {
+    "name": "Strategy/RPG",
+    "value": "strategy-rpg",
+    "td": 1.13,
+    "stageOne": {
+      "engine": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "gameplay": {
+        "css": "higher",
+        "value": "++"
+      },
+      "storyQuests": {
+        "css": "neutral",
+        "value": "~"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "levelDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "ai": {
+        "css": "neutral",
+        "value": "~"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "graphics": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "sound": {
+        "css": "neutral",
+        "value": "~"
+      }
+    }
+  },
+  "strategy-simulation": {
+    "name": "Strategy/Simulation",
+    "value": "strategy-simulation",
+    "td": 1.47,
+    "stageOne": {
+      "engine": {
+        "css": "higher",
+        "value": "++"
+      },
+      "gameplay": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "storyQuests": {
+        "css": "neutral",
+        "value": "~"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "lower",
+        "value": "--"
+      },
+      "levelDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "ai": {
+        "css": "higher",
+        "value": "++"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "graphics": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "sound": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "strategy-casual": {
+    "name": "Strategy/Casual",
+    "value": "strategy-casual",
+    "td": 1.10,
+    "stageOne": {
+      "engine": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "gameplay": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "storyQuests": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "lower",
+        "value": "--"
+      },
+      "levelDesign": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "ai": {
+        "css": "neutral",
+        "value": "~"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "graphics": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "sound": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "casual-action": {
+    "name": "Casual/Action",
+    "value": "casual-action",
+    "td": 0.93,
+    "stageOne": {
+      "engine": {
+        "css": "lower",
+        "value": "--"
+      },
+      "gameplay": {
+        "css": "higher",
+        "value": "++"
+      },
+      "storyQuests": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "levelDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "ai": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "lower",
+        "value": "--"
+      },
+      "graphics": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "sound": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "casual-adventure": {
+    "name": "Casual/Adventure",
+    "value": "casual-adventure",
+    "td": 0.47,
+    "stageOne": {
+      "engine": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "gameplay": {
+        "css": "higher",
+        "value": "++"
+      },
+      "storyQuests": {
+        "css": "neutral",
+        "value": "~"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "levelDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "ai": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "graphics": {
+        "css": "higher",
+        "value": "++"
+      },
+      "sound": {
+        "css": "neutral",
+        "value": "~"
+      }
+    }
+  },
+  "casual-rpg": {
+    "name": "Casual/RPG",
+    "value": "casual-rpg",
+    "td": 0.53,
+    "stageOne": {
+      "engine": {
+        "css": "lowest",
+        "value": "---"
+      },
+      "gameplay": {
+        "css": "higher",
+        "value": "++"
+      },
+      "storyQuests": {
+        "css": "neutral",
+        "value": "~"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "levelDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "ai": {
+        "css": "lowest",
+        "value": "---"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "graphics": {
+        "css": "higher",
+        "value": "++"
+      },
+      "sound": {
+        "css": "neutral",
+        "value": "~"
+      }
+    }
+  },
+  "casual-simulation": {
+    "name": "Casual/Simulation",
+    "value": "casual-simulation",
+    "td": 0.87,
+    "stageOne": {
+      "engine": {
+        "css": "lower",
+        "value": "--"
+      },
+      "gameplay": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "storyQuests": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "lower",
+        "value": "--"
+      },
+      "levelDesign": {
+        "css": "higher",
+        "value": "++"
+      },
+      "ai": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "lower",
+        "value": "--"
+      },
+      "graphics": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "sound": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  },
+  "casual-strategy": {
+    "name": "Casual/Strategy",
+    "value": "casual-strategy",
+    "td": 0.8,
+    "stageOne": {
+      "engine": {
+        "css": "lower",
+        "value": "--"
+      },
+      "gameplay": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "storyQuests": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "stageTwo": {
+      "dialogues": {
+        "css": "lower",
+        "value": "--"
+      },
+      "levelDesign": {
+        "css": "highest",
+        "value": "+++"
+      },
+      "ai": {
+        "css": "lower",
+        "value": "--"
+      }
+    },
+    "stageThree": {
+      "worldDesign": {
+        "css": "neutral",
+        "value": "~"
+      },
+      "graphics": {
+        "css": "higher",
+        "value": "++"
+      },
+      "sound": {
+        "css": "higher",
+        "value": "++"
+      }
+    }
+  }
+}

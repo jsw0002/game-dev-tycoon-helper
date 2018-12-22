@@ -1,0 +1,38 @@
+{
+  "general": [
+    "Do not create two or more games in a row which have the same topic/genre",
+    "Do not develop a sequel/expansion with a year of original",
+    "Fans are important and to get more fans you should try to take publishing deals"
+  ],
+  "stageOne": [
+    "Try and create a game for every topic, this will give you bonus experience",
+    "To unlock the next office you need 1M"
+  ],
+  "stageTwo": [
+    "If you want to make action/simulation/strategy games you need your team to focus on Tech",
+    "If you want to make rpg/adventure/casual games you need to focus on Design",
+    "Use a publisher until the game tells you that you can publish your medium/large game",
+    "Gaining fans is the most important on this stage",
+    "Before you make a medium game yourself, make sure you have at least 100K fans",
+    "To get the next office you have to be in Y13 M9 W2, have 4 employees and have 16M"
+  ],
+  "stageThree": [
+    "Do not develop large games with 2D graphics V3 or lower or 3D graphics V2",
+    "Do not develop a AAA game without having 3D V6",
+    "Do not develop a AAA game with having all of your employees specialized",
+    "To unlock the R&D Lab you need to have a Design Specialist",
+    "To unlock the Hardware Lab you have to (after you unlock the R&D lab) get a Technology Specialist"
+  ],
+  "customEngine": [
+    "Some Features are mutually exclusive and a game can only contain one feature from a given group",
+    "Graphics - 2D caps at V5 and 3D caps at V7",
+    "Story/Quests has two groups (cut scenes and story), full motion video, moral choices, and reactive quests are separate",
+    "Engine has one group, multiplayer",
+    "Gameplay doesn't have groups",
+    "Dialogue has two groups (voice acting and body language)",
+    "Level Design doesn't have groups",
+    "AI doesn't have groups",
+    "World Design doesn't have groups",
+    "Sound has two groups (sound and soundtrack)"
+  ]
+}
