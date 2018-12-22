@@ -1,7 +1,7 @@
 const pkg = require('./package')
 
 module.exports = {
-  router: { base: '/githubPages/' },
+  router: { base: '/test-project/' },
   mode: 'universal',
 
   /*
