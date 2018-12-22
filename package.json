@@ -1,7 +1,7 @@
 {
-  "name": "test-project",
+  "name": "game-dev-tycoon-helper",
   "version": "1.0.0",
-  "description": "My superior Nuxt.js project",
+  "description": "A guide for Game Dev Tycoon",
   "author": "jsw0002",
   "private": true,
   "scripts": {

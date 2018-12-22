@@ -1,7 +1,7 @@
 const pkg = require('./package')
 
 module.exports = {
-  router: { base: '/test-project/' },
+  router: { base: '/game-dev-tycoon-helper/' },
   mode: 'universal',
 
   /*
