@@ -28,6 +28,7 @@ module.exports = {
   ** Global CSS
   */
   css: [
+    '@assets/css/main.css'
   ],
 
   /*
@@ -40,6 +41,7 @@ module.exports = {
   ** Nuxt.js modules
   */
   modules: [
+    'bootstrap-vue/nuxt'
   ],
 
   /*
