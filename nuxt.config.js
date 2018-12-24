@@ -2,6 +2,10 @@ const pkg = require('./package')
 
 module.exports = {
   router: { base: '/game-dev-tycoon-helper/' },
+  generate: {
+    routes: ['404'],
+    subFolders: false,
+  },
   mode: 'universal',
 
   /*
