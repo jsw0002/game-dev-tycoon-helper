@@ -6,7 +6,7 @@
   ],
   "stageOne": [
     "Try and create a game for every topic, this will give you bonus experience",
-    "To unlock the next office you need 1M"
+    "To unlock the next office, you need 1M"
   ],
   "stageTwo": [
     "If you want to make action/simulation/strategy games you need your team to focus on Tech",
@@ -22,17 +22,5 @@
     "Do not develop a AAA game with having all of your employees specialized",
     "To unlock the R&D Lab you need to have a Design Specialist",
     "To unlock the Hardware Lab you have to (after you unlock the R&D lab) get a Technology Specialist"
-  ],
-  "customEngine": [
-    "Some Features are mutually exclusive and a game can only contain one feature from a given group",
-    "Graphics - 2D caps at V5 and 3D caps at V7",
-    "Story/Quests has two groups (cut scenes and story), full motion video, moral choices, and reactive quests are separate",
-    "Engine has one group, multiplayer",
-    "Gameplay doesn't have groups",
-    "Dialogue has two groups (voice acting and body language)",
-    "Level Design doesn't have groups",
-    "AI doesn't have groups",
-    "World Design doesn't have groups",
-    "Sound has two groups (sound and soundtrack)"
   ]
 }

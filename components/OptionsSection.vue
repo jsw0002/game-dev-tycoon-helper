@@ -29,6 +29,18 @@
       </label>
 
       <label
+        :class="{ active: customEngine }"
+        class="btn btn-option">
+        <input
+          id="customEngine"
+          v-model="customEngine"
+          type="checkbox"
+          @change="$store.commit('options/setCustomEngine', customEngine)"
+        />
+        Custom Engine
+      </label>
+
+      <label
         :class="{ active: generalTips }"
         class="btn btn-option">
         <input
@@ -85,6 +97,7 @@ export default {
     return {
       multiGenre: false,
       multipleSystems: false,
+      customEngine: false,
       generalTips: false,
       stageOneTips: false,
       stageTwoTips: false,

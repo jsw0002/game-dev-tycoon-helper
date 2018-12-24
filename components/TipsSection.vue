@@ -10,13 +10,6 @@
         class="list-group">
         <li class="list-group-item">{{ tip }}</li>
       </ul>
-      <h3>Custom Engine</h3>
-      <ul
-        v-for="(tip, index) in tips.customEngine"
-        :key="`${index}-ce`"
-        class="list-group">
-        <li class="list-group-item">{{ tip }}</li>
-      </ul>
     </div>
     <div
       v-if="$store.state.options.stageOneTips"

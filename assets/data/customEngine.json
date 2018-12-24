@@ -1,0 +1,119 @@
+{
+  "general": {
+    "tips": [
+      "Some Features are mutually exclusive, and a game can only contain one feature from a given group"
+    ],
+    "components": {
+      "graphics": {
+        "name": "Graphics",
+        "tips": [
+          "Graphics - 2D caps at V5 and 3D caps at V7",
+          "Tech level of the game is calculated as average of tech levels of all 2D and 3D Graphics features in Custom Engine, so only put a single graphics feature that has the highest tech level",
+          "All graphic features are mutually exclusive, except for Advanced Stereoscopic 3D"
+        ]
+      },
+      "storiesQuests": {
+        "name": "Stories/Quests",
+        "tips": [
+          "Story/Quests has two groups, full motion video, moral choices, and reactive quests are separate"
+        ],
+        "groups": [{
+          "name": "Cutscenes",
+          "features": [
+            "Simple Cutscenes",
+            "Advanced Cutscenes"
+          ]
+        },
+        {
+          "name": "Story",
+          "features": [
+            "Linear Story",
+            "Branching Story",
+            "Interactive Story",
+            "Immersive Story Telling"
+          ]
+        }]
+      },
+      "engine": {
+        "name": "Engine",
+        "tips": [
+          "Engine has one group, save game, video playback, basic physics, mod support, advanced physics, save to cloud, mmo support, software development kit, multi-platform optimization are separate"
+        ],
+        "groups": [{
+          "name": "Multiplayer",
+          "features": [
+            "Multiplayer",
+            "Online play"
+          ]
+        }]
+      },
+      "gameplay": {
+        "name": "Gameplay",
+        "tips": [
+          "Gameplay doesn't have groups, game tutorials, better user experience, achievements, character progression, skill trees, cooperative play, virtual reality headset are separate"
+        ]
+      },
+      "dialogue": {
+        "name": "Dialogue",
+        "tips": [
+          "Dialogue has two groups, better dialogue, dialogue tree are separate"
+        ],
+        "groups": [{
+          "name": "Voice Acting",
+          "features": [
+            "Voice Over",
+            "Celebrity Voice Acting"
+          ]
+        },
+        {
+          "name": "Body Language",
+          "features": [
+            "Simple Body Language",
+            "Advanced Body Language",
+            "Realistic Body Language"
+          ]
+        }]
+      },
+      "levelDesign": {
+        "name": "Level Design",
+        "tips": [
+          "Level Design doesn't have groups, level editor, easter eggs, mini games, dynamic environment, no loading screens are separate"
+        ]
+      },
+      "ai": {
+        "name": "AI",
+        "tips": [
+          "AI doesn't have groups, better ai, ai companions, self-learning ai are separate"
+        ]
+      },
+      "worldDesign": {
+        "name": "World Design",
+        "tips": [
+          "World Design doesn't have groups, open world, day & night cycles, rich backstory, virtual economy, realistic weather, dynamic world are separate"
+        ]
+      },
+      "sound": {
+        "name": "Sound",
+        "tips": [
+          "Sound has two groups"
+        ],
+        "groups": [{
+          "name": "Sound",
+          "features": [
+            "Basic Sound",
+            "Mono Sound",
+            "Stereo Sound",
+            "Surround Sound"
+          ]
+        },
+        {
+          "name": "Soundtrack",
+          "features": [
+            "Soundtrack",
+            "Orchestral Soundtrack"
+          ]
+        }]
+      }
+    }
+  }
+}

@@ -1,6 +1,7 @@
 export const state = () => ({
   multiGenre: false,
   multipleSystems: false,
+  customEngine: false,
   generalTips: false,
   stageOneTips: false,
   stageTwoTips: false,
@@ -13,6 +14,9 @@ export const mutations = {
   },
   setMultipleSystems(state, option) {
     state.multipleSystems = option;
+  },
+  setCustomEngine(state, option) {
+    state.customEngine = option;
   },
   setGeneralTips(state, option) {
     state.generalTips = option;

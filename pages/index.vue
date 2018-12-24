@@ -15,6 +15,8 @@
 
     <genre-section></genre-section>
 
+    <custom-engine-section></custom-engine-section>
+
     <tips-section></tips-section>
   </div>
 </template>
@@ -25,6 +27,7 @@ import OptionsSection from '~/components/OptionsSection';
 import TopicSection from '~/components/TopicSection';
 import SystemSection from '~/components/SystemSection';
 import GenreSection from '~/components/GenreSection';
+import CustomEngineSection from '~/components/CustomEngineSection';
 import TipsSection from '~/components/TipsSection';
 
 export default {
@@ -34,6 +37,7 @@ export default {
     TopicSection,
     SystemSection,
     GenreSection,
+    CustomEngineSection,
     TipsSection,
   },
 };

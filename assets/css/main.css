@@ -80,3 +80,11 @@
 .btn-group {
   margin: .5em 0 1em 0;
 }
+
+.extra-padding {
+  padding-top: .4em;
+}
+
+.bold {
+  font-weight: bold;
+}
