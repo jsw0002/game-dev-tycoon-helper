@@ -2,7 +2,9 @@
   "general": [
     "Do not create two or more games in a row which have the same topic/genre",
     "Do not develop a sequel/expansion with a year of original",
-    "Fans are important and to get more fans you should try to take publishing deals"
+    "Fans are important and to get more fans you should try to take publishing deals",
+    "Do not make medium games until you have over 100K fans",
+    "Do not make large games until you have over 400K fans"
   ],
   "stageOne": [
     "Try and create a game for every topic, this will give you bonus experience",
@@ -21,6 +23,14 @@
     "Do not develop a AAA game without having 3D V6",
     "Do not develop a AAA game with having all of your employees specialized",
     "To unlock the R&D Lab you need to have a Design Specialist",
-    "To unlock the Hardware Lab you have to (after you unlock the R&D lab) get a Technology Specialist"
+    "To unlock the Hardware Lab you have to (after you unlock the R&D lab) get a Technology Specialist",
+    "When unlocking R&D research internet and grid first",
+    "Most important specialists are Graphics, Level Design, and Gameplay next would be Sound and AI after that Engine and Dialogues"
+  ],
+  "staff": [
+    "Complex Algorithms - Technology",
+    "Game Demo - Design & Technology",
+    "Showreel - Design",
+    "20,000 yields 2, 80,000 yields 3, 440,000 yields 4, 1,110,000 yields 5"
   ]
 }
